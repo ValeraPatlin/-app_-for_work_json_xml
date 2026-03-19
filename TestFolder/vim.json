@@ -1,0 +1,10 @@
+{
+  "root": {
+    "texteditor": "vim",
+    "fileformats": "everything",
+    "encoding": "ANSI; UTF;",
+    "hasintellisense": false,
+    "hasplugins": false,
+    "cancompile": false
+  }
+}

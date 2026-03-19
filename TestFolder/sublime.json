@@ -1,0 +1,10 @@
+{
+    "root" : {
+        "texteditor" : "Sublime",
+        "fileformats" : "everything",
+        "encoding" : ["ANSI", "UTF"],
+        "hasintellisense" : true,
+        "hasplugins" : true,
+        "cancompile" : "false
+}
+}

@@ -1,0 +1,10 @@
+{
+  "root": {
+    "texteditor": "VisualStudio Code",
+    "fileformats": "everything",
+    "encoding": "ANSI; UTF;",
+    "hasintellisense": true,
+    "hasplugins": true,
+    "cancompile": true
+  }
+}
